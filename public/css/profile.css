@@ -1,0 +1,47 @@
+ body {
+     background-color: rgba(179, 198, 204, 0.349);
+
+ }
+
+
+
+ .profile-button {
+     background: #BA68C8;
+     box-shadow: none;
+     border: none
+ }
+
+ .profile-button:hover {
+     background: #682773
+ }
+
+ .profile-button:focus {
+     background: #682773;
+     box-shadow: none
+ }
+
+ .profile-button:active {
+     background: #682773;
+     box-shadow: none
+ }
+
+ .back:hover {
+     color: #682773;
+     cursor: pointer
+ }
+
+ #account-box {
+     margin-top: 150px;
+     margin-bottom: 50px;
+ }
+ .sidebar-item:hover{
+    background-color: #f5f5f5;
+
+    
+     
+ }
+
+ .sidebar-item .sidebar-link:hover {
+     text-decoration: none !important;
+
+ }
